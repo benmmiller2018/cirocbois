@@ -1,14 +1,14 @@
 import React from 'react';
-
+import img from "./joe.png"
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="https://media.giphy.com/media/KCZ7edW5bF9akN2DgR/giphy.gif"  alt="logo" />
+        <img src={img} className="App-logo"  alt="logo" />
         <h2>
-          just looking for who asked...
+          who put you on the planet
         </h2>
         
       </header>
