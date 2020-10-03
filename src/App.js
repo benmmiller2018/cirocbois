@@ -1,5 +1,5 @@
 import React from 'react';
-import img from "./mox.jpg"
+import img from "./patty.jpg"
 import './App.css';
 
 function App() {
@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={img} className="joe"  alt="logo" />
         <h2>
-          pog
+          im rarded?
         </h2>
         
       </header>
