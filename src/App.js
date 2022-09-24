@@ -1,4 +1,4 @@
-import React from 'react';/*
+import React from 'react';
 import img1 from "./1.jpeg"
 import img2 from "./2.png"
 import img3 from "./3.PNG"
@@ -21,15 +21,15 @@ import img19 from "./19.PNG"
 import img20 from "./20.JPG"
 import img21 from "./21.JPG"
 import img22 from "./22.JPG"
-import img23 from "./23.JPG"*/
-import img24 from "./24.JPG"/*
+import img23 from "./23.JPG"
+import img24 from "./24.JPG"
 import img25 from "./25.JPG"
 import img26 from "./26.PNG"
 import img27 from "./27.JPG"
 import img28 from "./joe.jpg"
 import img29 from "./mox.jpg"
 import img30 from "./pat.jpg"
-import img31 from "./patty.jpg"*/
+import img31 from "./patty.jpg"
 import './App.css';
 
 
