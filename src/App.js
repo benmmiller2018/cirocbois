@@ -135,7 +135,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={img} />
+        <img src={img24} />
         
       </header>
     </div>
