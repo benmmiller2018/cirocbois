@@ -70,12 +70,10 @@ else if (date == 21){
   img="https://drive.google.com/uc?export=view&id=1mQ9pEyZDQ53JEhNqypspw6rPioI3lTgY";
 }
 else if (date == 22){
-  //temp repeat
-  img="https://drive.google.com/uc?export=view&id=1EhpNg2oBG48thJFNvXy2X6fdwyrxsRut";
+  img="https://drive.google.com/uc?export=view&id=10hHmRo56w7S6TglYC4LVoA43Z0AMWxUv";
 }
 else if (date == 23){
-  //temp repeat
-  img="https://drive.google.com/uc?export=view&id=1EhpNg2oBG48thJFNvXy2X6fdwyrxsRut";
+  img="https://drive.google.com/uc?export=view&id=1hZh2EZ43Xfw88tEukPrcnLXqHZ_VJrOG";
 }
 else if (date == 24){
   img="https://drive.google.com/uc?export=view&id=18ACfuEOW95PYVGiS2_jdxziJ_Utk7w6h";
@@ -87,7 +85,7 @@ else if (date == 26){
   img="https://drive.google.com/uc?export=view&id=16oYxeDBduwq9gWUPt8Y_XefF1Sqy0Yjm";
 }
 else if (date == 27){
-  img="https://drive.google.com/uc?export=view&id=1EKx6O475V7r4qWxSb9Zr0hW7PqzCFYzH";
+  img="https://drive.google.com/uc?export=view&id=1EgKACZtf3m3GThBryB07--tjWKSLIugp";
 }
 else if (date == 28){
   img="https://drive.google.com/uc?export=view&id=1bTSayTAPma2FdcFfrB9TzrkZsCJVDTUS";
