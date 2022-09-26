@@ -75,6 +75,7 @@ else if (date == 22){
 else if (date == 23){
   img="https://drive.google.com/uc?export=view&id=1hZh2EZ43Xfw88tEukPrcnLXqHZ_VJrOG";
 }
+//start
 else if (date == 24){
   img="https://drive.google.com/uc?export=view&id=18ACfuEOW95PYVGiS2_jdxziJ_Utk7w6h";
 }
