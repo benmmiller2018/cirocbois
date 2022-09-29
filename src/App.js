@@ -92,7 +92,7 @@ else if (date == 28){
   img="https://drive.google.com/uc?export=view&id=1bTSayTAPma2FdcFfrB9TzrkZsCJVDTUS";
 }
 else if (date == 29){
-  img="https://drive.google.com/uc?export=view&id=1JaoLGD1E5YW3wRFnqjcVvYpCKs3c79qN";
+  img="https://drive.google.com/uc?export=view&id=1h-VRU-SLexFGEYSDeNixPkBWvnv304rL";
 }
 
 else if (date == 30){
