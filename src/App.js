@@ -108,7 +108,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>ciroc boy of the day</h1>
+        <h1>cîroc boy of the day</h1>
         <img src={img} />
         
       </header>
